@@ -3,7 +3,7 @@
 * Студент: [Артём Лашманов](https://up.htmlacademy.ru/react/15/user/2412877).
 * Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
 
----
+------
 
 _Не удаляйте и не изменяйте папки и файлы:__
 _`.editorconfig`, `.gitattributes`, `.gitignore`.__
