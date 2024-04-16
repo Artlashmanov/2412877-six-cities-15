@@ -1,4 +1,4 @@
-# Личный проект «Шесть городов»
+# Личный проект «Шесть городов» ЗАКРЫТ НА 100 балов.
 
 * Студент: [Артём Лашманов](https://up.htmlacademy.ru/react/15/user/2412877).
 * Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
